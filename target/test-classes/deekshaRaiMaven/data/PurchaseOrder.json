@@ -1,0 +1,12 @@
+[
+	{
+		"email":"admin@gmail.com",
+		"password":"Password5",
+		"requiredProduct":"ZARA JACKET"
+	},
+	{
+		"email":"anshika@gmail.com",
+		"password":"Iamking@000",
+		"requiredProduct":"ZARA COAT 3"
+	}
+]
